@@ -6,6 +6,8 @@ public class JenkinsPrg {
 	{
 		// TODO Auto-generated method stub
 System.out.println("This is a test");
+System.out.println("Test");
+
 	}
 
 }
